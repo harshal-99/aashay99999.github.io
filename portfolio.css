@@ -1,0 +1,84 @@
+@import url('https://fonts.googleapis.com/css2?family=Averia+Serif+Libre:ital@1&display=swap');
+body{
+    /* margin: 0;
+    padding: 0;
+    box-sizing: border-box; */
+    /* overflow-x:hidden; */
+    font-family: 'Averia Serif Libre', cursive;
+   
+   
+} 
+
+.navbar{
+    font-weight: bolder;
+    font-size: large;
+    text-transform: uppercase;
+    letter-spacing: 0.1rem;
+    padding: 10px 0;
+    height: 50px;
+    background-color:rgb(250, 247, 60); 
+    
+}
+
+
+
+.navbar-nav > li{
+    margin-left:20px;
+    margin-right:20px;
+}
+
+a{
+    color:purple;
+    
+      
+    
+
+  }
+
+.img{
+    position: absolute;
+    margin-top: 30px;
+    margin-left: 60%;
+    
+
+}  
+.row{
+   
+    /* margin-top: 15%; */
+    margin-left: 10%;
+    margin-right: 10%;
+    
+    
+}
+
+
+.intro { 
+    margin-top: 15%;
+    color:black; 
+   
+ }
+ .intro:hover {
+    position: relative; 
+    top: -3px; 
+    left: -3px; 
+    text-shadow: 1px 1px #fe4902, 
+                 2px 2px #fe4902, 
+                 3px 3px #fe4902, 
+                 4px 4px #fe4902, 
+                 5px 5px #fe4902, 
+                 6px 6px #fe4902;
+ }
+
+ #projects {
+     margin-top: 80px;
+ }
+
+.lap {
+     margin-top: 15%;
+ }
+
+ #pro, #contact ,#skill{
+     margin-top: 80px;
+ }
+
+ 
